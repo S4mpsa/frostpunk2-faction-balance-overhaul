@@ -22,6 +22,14 @@
 !Scenarios/Shared/Configs/Districts/DistrictTypes/
 !Scenarios/Shared/Configs/Districts/DistrictTypes/*
 
+!Scenarios/Shared/Configs/Abilities/
+!Scenarios/Shared/Configs/Abilities/DistrictAbilities/
+!Scenarios/Shared/Configs/Abilities/DistrictAbilities/BuildingAbilities/
+!Scenarios/Shared/Configs/Abilities/DistrictAbilities/BuildingAbilities/DA_Toggle_IndustrialExpandedGoodsProduction.uasset
+!Scenarios/Shared/Configs/Abilities/DistrictAbilities/BuildingAbilities/DA_Toggle_IndustrialExpandedGoodsProduction_2.uasset
+!Scenarios/Shared/Configs/Abilities/DistrictAbilities/BuildingAbilities/DA_Toggle_IndustrialExpandedGoodsProduction_3.uasset
+!Scenarios/Shared/Configs/Abilities/DistrictAbilities/BuildingAbilities/DA_Toggle_IndustrialGoodsProduction.uasset
+!Scenarios/Shared/Configs/UI/DA_UiConfig.uasset
 
 # Generator Upgrades
 !Scenario/Shared/Configs/Generator/GeneratorModes/DA_DominionLevel1_GeneratorMode
