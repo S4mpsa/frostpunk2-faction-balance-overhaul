@@ -1,0 +1,10 @@
+*
+!.gitignore
+!Scenarios/
+!Scenarios/Shared/
+!Scenarios/Shared/Configs/
+!Scenarios/Shared/Configs/Buildings/
+!Scenarios/Shared/Configs/Buildings/DrugsManufactory/
+!Scenarios/Shared/Configs/Buildings/DrugsManufactory/DA_P_DrugsManufactory_Equality.uasset
+!Scenarios/Shared/Configs/Buildings/DrugsManufactory/DA_P_DrugsManufactory_Merit.uasset
+
