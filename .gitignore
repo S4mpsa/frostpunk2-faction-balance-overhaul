@@ -5,10 +5,25 @@
 !Scenarios/Shared/Configs/
 !Scenarios/Shared/Configs/Buildings/
 
-!Scenarios/Shared/Configs/Buildings/DrugsManufactory/
-!Scenarios/Shared/Configs/Buildings/DrugsManufactory/*
+# Research
+!Scenarios/Shared/Levels/
+!Scenarios/Shared/Levels/Base/
+!Scenarios/Shared/Levels/Base/IdeaTree_Nodes.umap
+!Scenarios/Shared/Configs/Research/
+!Scenarios/Shared/Configs/Research/ResearchSubCategories/
+!Scenarios/Shared/Configs/Research/ResearchSubCategories/DA_FrostlandResearchSubCategory.uasset
+!Scenarios/Shared/Configs/Research/ResearchSubCategories/DA_TechnologyResearchSubCategory.uasset
+!Scenarios/Shared/Configs/Research/ResearchTopics
 
+# Districts
+!Scenarios/Shared/Configs/Districts/
+!Scenarios/Shared/Configs/Districts/DistrictTypes/
+!Scenarios/Shared/Configs/Districts/DistrictTypes/DA_LogisticsDistrict
+!Scenarios/Shared/Configs/Districts/DistrictTypes/DA_LogisticsDistrict_2_Upgraded
+!Scenarios/Shared/Configs/Districts/DistrictTypes/DA_Food_Supply
+!Scenarios/Shared/Configs/Districts/DistrictTypes/DA_Food_Supply_2_Upgraded
 
+# Progress & Adaptation Rebalance
 !Scenarios/Shared/Configs/Buildings/AdvancedCoalMine/
 !Scenarios/Shared/Configs/Buildings/AdvancedCoalMine/*
 !Scenarios/Shared/Configs/Buildings/AdvancedHeatPump/
@@ -68,3 +83,34 @@
 !Scenarios/Shared/Configs/Abilities/
 !Scenarios/Shared/Configs/Abilities/GeneratorAbilities/
 !Scenarios/Shared/Configs/Abilities/GeneratorAbilities/DA_Ability_Surplus.uasset
+
+# Steam Core Production & Fertilizer Factories
+!Scenarios/Shared/Configs/UI/
+!Scenarios/Shared/Configs/UI/EconomicFilters/
+!Scenarios/Shared/Configs/UI/EconomicFilters/DA_BuildingsEconomyFilter.uasset
+!Scenarios/Shared/Configs/UI/EconomicFilters/DA_FoodEconomyFilter.uasset
+!Scenarios/Shared/Configs/Research/ResearchTopics/_Survival/
+!Scenarios/Shared/Configs/Research/ResearchTopics/_Survival/Food/
+!Scenarios/Shared/Configs/Research/ResearchTopics/_Survival/Food/FertilizerFactories/
+!Scenarios/Shared/Configs/Research/ResearchTopics/_Survival/Food/FertilizerFactories/*
+!Scenarios/Shared/Configs/Research/ResearchTopics/_Survival/Logistics/
+!Scenarios/Shared/Configs/Research/ResearchTopics/_Survival/Logistics/SteamCores/
+!Scenarios/Shared/Configs/Research/ResearchTopics/_Survival/Logistics/SteamCores/*
+!Scenarios/Shared/Configs/Research/ResearchTopics/_Survival/Logistics/SteamCores/Outcomes/
+!Scenarios/Shared/Configs/Research/ResearchTopics/_Survival/Logistics/SteamCores/Outcomes/*
+!Scenarios/Shared/Configs/Buildings/CoreProduction/
+!Scenarios/Shared/Configs/Buildings/CoreProduction/*
+!Scenarios/Shared/Configs/Buildings/FertilizerFactory/
+!Scenarios/Shared/Configs/Buildings/FertilizerFactory/*
+
+# Sustainable Hunting
+!Scenarios/Shared/Configs/Deposits/
+!Scenarios/Shared/Configs/Deposits/DepositTypes/
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Soil/
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Soil/*
+!Scenarios/Shared/Configs/Outposts/
+!Scenarios/Shared/Configs/Outposts/Food/
+!Scenarios/Shared/Configs/Outposts/Food/*
+!Scenarios/Shared/Configs/Sites/
+!Scenarios/Shared/Configs/Sites/ResourceSites/
+!Scenarios/Shared/Configs/Sites/ResourceSites/DA_FoodOutpostSite.uasset
