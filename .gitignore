@@ -17,11 +17,28 @@
 
 # Districts
 !Scenarios/Shared/Configs/Districts/
+!Scenarios/Shared/Configs/Districts/*
+!Scenarios/Shared/Configs/Districts/Expansions/
+!Scenarios/Shared/Configs/Districts/Expansions/*
+!Scenarios/Shared/Configs/Districts/Expansions/DA_HousingExpansion
 !Scenarios/Shared/Configs/Districts/DistrictTypes/
+!Scenarios/Shared/Configs/Districts/DistrictTypes/*
+!Scenarios/Shared/Configs/Districts/DistrictTypes/DA_Housing
+!Scenarios/Shared/Configs/Districts/DistrictTypes/DA_Housing_2_Upgraded
+!Scenarios/Shared/Configs/Districts/DistrictTypes/DA_Housing_3_Advanced/
 !Scenarios/Shared/Configs/Districts/DistrictTypes/DA_LogisticsDistrict
 !Scenarios/Shared/Configs/Districts/DistrictTypes/DA_LogisticsDistrict_2_Upgraded
 !Scenarios/Shared/Configs/Districts/DistrictTypes/DA_Food_Supply
 !Scenarios/Shared/Configs/Districts/DistrictTypes/DA_Food_Supply_2_Upgraded
+
+# Generator Upgrades
+!Scenario/Shared/Configs/Generator/GeneratorModes/DA_DominionLevel1_GeneratorMode
+!Scenario/Shared/Configs/Generator/GeneratorModes/DA_DominionLevel2_GeneratorMode
+!Scenario/Shared/Configs/Generator/GeneratorModes/DA_DominionLevel3_GeneratorMode
+
+# Crime Rework
+!Scenarios/Shared/Configs/Buildings/GuardTower
+!Scenarios/Shared/Configs/Buildings/GuardTower*
 
 # Progress & Adaptation Rebalance
 !Scenarios/Shared/Configs/Buildings/AdvancedCoalMine/
