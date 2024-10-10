@@ -31,6 +31,9 @@
 !Scenarios/Shared/Configs/Abilities/DistrictAbilities/BuildingAbilities/DA_Toggle_IndustrialGoodsProduction.uasset
 !Scenarios/Shared/Configs/UI/DA_UiConfig.uasset
 
+!Scenarios/Shared/Configs/Territories/
+!Scenarios/Shared/Configs/Territories/DA_BaseTerritoryExplorationType.uasset
+
 # Generator Upgrades
 !Scenarios/Shared/Configs/Generator/
 !Scenarios/Shared/Configs/Generator/GeneratorModes/
