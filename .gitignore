@@ -32,9 +32,9 @@
 !Scenarios/Shared/Configs/UI/DA_UiConfig.uasset
 
 # Generator Upgrades
-!Scenario/Shared/Configs/Generator/GeneratorModes/DA_DominionLevel1_GeneratorMode
-!Scenario/Shared/Configs/Generator/GeneratorModes/DA_DominionLevel2_GeneratorMode
-!Scenario/Shared/Configs/Generator/GeneratorModes/DA_DominionLevel3_GeneratorMode
+!Scenarios/Shared/Configs/Generator/
+!Scenarios/Shared/Configs/Generator/GeneratorModes/
+!Scenarios/Shared/Configs/Generator/GeneratorModes/*
 
 # Crime Rework
 !Scenarios/Shared/Configs/Buildings/GuardTower
