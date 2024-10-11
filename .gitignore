@@ -19,6 +19,13 @@
 !Scenarios/Shared/Configs/Policies/*
 !Scenarios/Shared/Configs/ModifierEffectTemplates/*
 !Scenarios/Shared/Configs/Messages/Ghosts/Consequences/*
+!Scenarios/Shared/Configs/Messages/Ghosts/Consequences/GhostOnly/New/DA_Smog_Redistribution_Consequence_Ghost.uasset
+!Scenarios/Shared/Configs/Policies/Society/_SocietyLawGroups/DA_Pollution_Law_Group.uasset
+!Scenarios/Shared/Configs/Policies/Society/Pollution/DA_Smog_Redistribution_Law.uasset
+!Scenarios/Shared/Configs/Policies/Society/Pollution/DA_Smog_RedistributionLaw.uasset
+!Content/UtilitiesTools/EditorUtilities/EditorTools/PolicyBrowser/EditorToolElements/DT_ET_PoliciesExport.uasset
+
+
 
 # Districts
 !Scenarios/Shared/Configs/Districts/
@@ -26,6 +33,7 @@
 !Scenarios/Shared/Configs/Districts/Expansions/*
 !Scenarios/Shared/Configs/Districts/DistrictTypes/
 !Scenarios/Shared/Configs/Districts/DistrictTypes/*
+!Scenarios/Shared/Configs/Districts/DistrictViewPatterns/DA_HousingSlumViewPattern.uasset
 
 !Scenarios/Shared/Configs/Abilities/
 !Scenarios/Shared/Configs/Abilities/DistrictAbilities/
