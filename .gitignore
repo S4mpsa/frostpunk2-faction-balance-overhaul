@@ -15,6 +15,11 @@
 !Scenarios/Shared/Configs/Research/ResearchSubCategories/DA_TechnologyResearchSubCategory.uasset
 !Scenarios/Shared/Configs/Research/ResearchTopics
 
+# Policies
+!Scenarios/Shared/Configs/Policies/*
+!Scenarios/Shared/Configs/ModifierEffectTemplates/*
+!Scenarios/Shared/Configs/Messages/Ghosts/Consequences/*
+
 # Districts
 !Scenarios/Shared/Configs/Districts/
 !Scenarios/Shared/Configs/Districts/Expansions/
