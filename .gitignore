@@ -21,10 +21,14 @@
 # Outposts
 !Scenarios/Shared/Configs/Outposts/
 !Scenarios/Shared/Configs/Outposts/Coal/
+!Scenarios/Shared/Configs/Outposts/Coal/*
 !Scenarios/Shared/Configs/Outposts/Food/
 !Scenarios/Shared/Configs/Outposts/Oil/
+!Scenarios/Shared/Configs/Outposts/Oil/*
 !Scenarios/Shared/Configs/Outposts/Goods/
+!Scenarios/Shared/Configs/Outposts/Goods/*
 !Scenarios/Shared/Configs/Outposts/Materials/
+!Scenarios/Shared/Configs/Outposts/Materials/*
 
 # Deposits
 !Scenarios/Shared/Configs/Deposits/DepositTypes/
@@ -164,6 +168,12 @@
 # Sustainable Hunting
 !Scenarios/Shared/Configs/Deposits/
 !Scenarios/Shared/Configs/Deposits/DepositTypes/
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Coal/
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Coal/*
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Oil/
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Oil/*
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Materials/
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Materials/*
 !Scenarios/Shared/Configs/Deposits/DepositTypes/Soil/
 !Scenarios/Shared/Configs/Deposits/DepositTypes/Soil/*
 !Scenarios/Shared/Configs/Outposts/
