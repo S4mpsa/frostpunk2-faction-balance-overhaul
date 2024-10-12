@@ -21,7 +21,7 @@
 !Scenarios/Shared/Configs/Deposits/DepositTypes/Steel/DA_Deposit_Steel_Small.uasset
 
 # Policies
-!Scenarios/Shared/Configs/Policies/*
+!Scenarios/Shared/Configs/Policies/
 !Scenarios/Shared/Configs/ModifierEffectTemplates/*
 !Scenarios/Shared/Configs/Messages/Ghosts/Consequences/*
 !Scenarios/Shared/Configs/Messages/Ghosts/Consequences/GhostOnly/New/DA_Smog_Redistribution_Consequence_Ghost.uasset
@@ -29,7 +29,16 @@
 !Scenarios/Shared/Configs/Policies/Society/Pollution/DA_Smog_Redistribution_Law.uasset
 !Scenarios/Shared/Configs/Policies/Society/Pollution/DA_Smog_RedistributionLaw.uasset
 !Content/UtilitiesTools/EditorUtilities/EditorTools/PolicyBrowser/EditorToolElements/DT_ET_PoliciesExport.uasset
-
+!Scenarios/Shared/Configs/Policies/Survival/
+!Scenarios/Shared/Configs/Policies/Survival/CommunityService/
+!Scenarios/Shared/Configs/Policies/Survival/CommunityService/DA_CommunityService_Adaptation.uasset
+!Scenarios/Shared/Configs/Policies/Survival/CommunityService/DA_CommunityService_Progress.uasset
+!Scenarios/Shared/Configs/Policies/Survival/WasteHeatConversion/
+!Scenarios/Shared/Configs/Policies/Survival/WasteHeatConversion/DA_WasteHeatConversion_Adaptation_Disease_Fallback.uasset
+!Scenarios/Shared/Configs/Policies/Survival/WasteHeatConversion/DA_WasteHeatConversion_Adaptation_LessEfficient_Fallback.uasset
+!Scenarios/Shared/Configs/Policies/Survival/WorkerShifts
+!Scenarios/Shared/Configs/Policies/Survival/WorkerShifts/DA_WorkerShifts_Progress_Policy.uasset
+!Scenarios/Shared/Configs/Policies/Survival/WorkerShifts/DA_WorkerShifts_Adaptation_Policy.uasset
 
 
 # Districts
