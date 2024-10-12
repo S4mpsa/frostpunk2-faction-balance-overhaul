@@ -15,6 +15,11 @@
 !Scenarios/Shared/Configs/Research/ResearchSubCategories/DA_TechnologyResearchSubCategory.uasset
 !Scenarios/Shared/Configs/Research/ResearchTopics
 
+# Deposits
+!Scenarios/Shared/Configs/Deposits/DepositTypes/
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Steel/
+!Scenarios/Shared/Configs/Deposits/DepositTypes/Steel/DA_Deposit_Steel_Small.uasset
+
 # Policies
 !Scenarios/Shared/Configs/Policies/*
 !Scenarios/Shared/Configs/ModifierEffectTemplates/*
