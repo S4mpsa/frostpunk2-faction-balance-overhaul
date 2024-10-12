@@ -15,6 +15,17 @@
 !Scenarios/Shared/Configs/Research/ResearchSubCategories/DA_TechnologyResearchSubCategory.uasset
 !Scenarios/Shared/Configs/Research/ResearchTopics
 
+# Communities
+!Scenarios/Shared/Configs/Communities/CommunityTypes/IndependentCommunities/
+
+# Outposts
+!Scenarios/Shared/Configs/Outposts/
+!Scenarios/Shared/Configs/Outposts/Coal/
+!Scenarios/Shared/Configs/Outposts/Food/
+!Scenarios/Shared/Configs/Outposts/Oil/
+!Scenarios/Shared/Configs/Outposts/Goods/
+!Scenarios/Shared/Configs/Outposts/Materials/
+
 # Deposits
 !Scenarios/Shared/Configs/Deposits/DepositTypes/
 !Scenarios/Shared/Configs/Deposits/DepositTypes/Steel/
